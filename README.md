@@ -29,3 +29,16 @@ The DBSCAN algorithm was used with the following parameters:
 
 ## Files
 1. `fraud_detection_dbscan.py`: Python script implementing the fraud detection pipeline.
+4. eda_analysis.py
+
+This script performs Exploratory Data Analysis (EDA) for the bank transaction dataset, aligned with the feature engineering and modeling process. It includes:
+    - Data inspection and statistical summary.
+    - Feature distributions and correlation analysis.
+    - Impact of scaling on features.
+    - Dimensionality reduction using PCA.
+    - Insights to guide feature engineering and model development.
+
+Generated visualizations highlight:
+    - Raw feature distributions and correlations.
+    - Normalized feature distributions after scaling.
+    - Principal Component Analysis (PCA) results for dimensionality reduction.
